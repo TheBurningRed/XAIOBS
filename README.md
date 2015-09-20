@@ -11,6 +11,7 @@ xampp all in one bash script
 
 ### create localhost
 ``$ sudo ./xaiobs mklh <name>``
+allows to create a new localhost with a single command
 
 ### Configure
 to configure other params you may change variables inside the script
